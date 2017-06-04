@@ -1,0 +1,19 @@
+--2017-06-04 17:58:12--  https://scontent.fykz1-1.fna.fbcdn.net/v/t1.0-9/18198350_10155316727214973_3224605756308895006_n.jpg?oh=e3d00e9ba694960655aa81003826917b&oe=59E06715
+Resolving scontent.fykz1-1.fna.fbcdn.net... 2607:f798:10:e23c:face:b00c::a7, 209.148.160.81
+Connecting to scontent.fykz1-1.fna.fbcdn.net|2607:f798:10:e23c:face:b00c::a7|:443... failed: Operation timed out.
+Connecting to scontent.fykz1-1.fna.fbcdn.net|209.148.160.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85160 (83K) [image/jpeg]
+Saving to: ‘18198350_10155316727214973_3224605756308895006_n.jpg?oh=e3d00e9ba694960655aa81003826917b&oe=59E06715’
+
+     0K .......... .......... .......... .......... .......... 60%  647K 0s
+    50K .......... .......... .......... ...                  100% 23.8M=0.08s
+
+2017-06-04 17:58:32 (1.03 MB/s) - ‘18198350_10155316727214973_3224605756308895006_n.jpg?oh=e3d00e9ba694960655aa81003826917b&oe=59E06715’ saved [85160/85160]
+
+--2017-06-04 17:58:32--  http://ben.jpg/
+Resolving ben.jpg... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘ben.jpg’
+FINISHED --2017-06-04 17:58:32--
+Total wall clock time: 20s
+Downloaded: 1 files, 83K in 0.08s (1.03 MB/s)

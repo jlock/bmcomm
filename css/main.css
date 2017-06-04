@@ -1,3 +1,18 @@
 .main-content {
   margin-top: 100px
 }
+
+.profile {
+  width: 175px;
+  border-radius: 100px;
+  float: left;
+  margin: 30px
+}
+
+.white {
+  background-color: #fff;
+}
+
+.spacing {
+  padding: 20px;
+}
